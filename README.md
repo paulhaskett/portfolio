@@ -1,10 +1,19 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+# r3f-vite-portfolio
+This is a portfolio website built with Vite.js.
 
-```
-yarn
-yarn dev
-```
+## Project setup
+gitclone https://github.com/r3f/r3f-portfolio-final.git
+cd r3f-portfolio-final
+npm install
+npm run dev
 
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+## Build for production
+npm run build
+
+## Description
+
+## Project setup
+a portfolio website using react three fiber vite forked from wawa sensie and followed his tutorial.
+
+
